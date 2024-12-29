@@ -3,4 +3,4 @@ layout : single
 title : "First post"
 ---
 
-Hello Wolrd
+print("Hello Wolrd")
